@@ -1,0 +1,11 @@
+{
+  "name": "generator-nebula",
+  "version": "0.0.0",
+  "description": "A Yeoman generator for nebula. The tool will help to generate walking application skeleton for a typical Backbone web apps. You can use it to quickly bootstrap your Backbone web application projects.",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.2"
+  }
+}
