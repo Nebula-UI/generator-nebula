@@ -1,0 +1,34 @@
+{
+  "name": "generator-nebula",
+  "version": "0.0.0",
+  "description": "A Yeoman generator for nebula. The tool will help to generate walking application skeleton for a typical Backbone web apps. You can use it to quickly bootstrap your Backbone web application projects.",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.2"
+  },
+  "files": [
+  ],
+  "homepage": "https://github.com/hegdeashwin/generator-nebula",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hegdeashwin/generator-nebula.git"
+  },
+  "issues": {
+    "url": "https://github.com/hegdeashwin/generator-nebula/issues?state=open"
+  },
+  "milestones": {
+    "url": "https://github.com/hegdeashwin/generator-nebula/issues/milestones"
+  },
+  "releases": {
+    "url": "https://github.com/hegdeashwin/generator-nebula/releases"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.githubusercontent.com/hegdeashwin/generator-nebula/master/LICENSE"
+  }
+}
